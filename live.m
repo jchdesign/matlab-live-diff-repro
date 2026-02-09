@@ -3,6 +3,7 @@ y = 2;
 %%
 z = x + y;
 a = x;
+a = y;
 
 %[appendix]{"version":"1.0"}
 %---
